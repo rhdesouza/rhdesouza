@@ -1,7 +1,7 @@
 ## Olá eu sou o Rafael Henrique.
 
 - 🔭 Desenvolvedor fullstack
-- 🌱 Estou estudando sobre arquiteturas de sistemas distribuídos
+- 🌱 Estudando sobre arquiteturas de sistemas distribuídos
 - 😄 Pronouns: ele/dele
 
 <div align="center">
